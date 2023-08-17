@@ -1,1 +1,1 @@
-Student Information Exchange(SIE) website. Group project for Software Engineering Fundamentals class.
+Student Information Exchange(SIE) website. Group project for Fundamentals of Software Engineering class.
