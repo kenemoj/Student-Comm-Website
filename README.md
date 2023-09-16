@@ -1,3 +1,3 @@
-Student Communication website.
-HTML, CSS and Js for frontend
-firebase for backend
+#Student Communication website.
+#HTML, CSS and Js for frontend
+#firebase for backend
